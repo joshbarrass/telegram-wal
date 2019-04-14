@@ -4,4 +4,10 @@ provided as required by the license in the text file "MIT"
 
 The rest of this project is licensed under GNU GPL 3,
 which is provided in both text files "LICENSE" and
-"gpl-3.0.txt". 
+"gpl-3.0.txt".
+
+The MIT license is considered GPL-compatible, and as such
+the original MIT-licensed work can be used in this GPL-
+licensed work, and the work as a whole (including the
+originally MIT-licensed work) is licensed fully under the
+GNU GPL.
